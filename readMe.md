@@ -30,7 +30,6 @@ In this article, you'll learn how to secure a FastAPI app by implementing access
 - Database Migration with Alembic
 - Testing the FastAPI JSON Web Token API
 
-Read the entire article here: [https://codevoweb.com/restful-api-with-python-fastapi-access-and-refresh-tokens](https://codevoweb.com/restful-api-with-python-fastapi-access-and-refresh-tokens)
 
 ## 2. RESTful API with Python, SQLAlchemy, & FastAPI: Send HTML Emails
 
@@ -50,7 +49,7 @@ In this article, you'll learn how to send HTML emails with Python, FastAPI, SQLA
 - Update the SignUp Path Operation Function
 - Create a Controller to Verify the Code
 
-Read the entire article here: [https://codevoweb.com/restful-api-with-python-fastapi-send-html-emails](https://codevoweb.com/restful-api-with-python-fastapi-send-html-emails)
+
 
 ## 3. CRUD RESTful API Server with Python, SQLAlchemy, FastAPI, and PostgreSQL
 
@@ -77,6 +76,5 @@ This article will teach you how to create a CRUD RESTful API with Python, FastAP
     - Remove Post Handler
 - Add the Routes to the FastAPI Middleware Stack
 
-Read the entire article here: [https://codevoweb.com/crud-restful-api-server-with-python-fastapi-and-postgresql](https://codevoweb.com/crud-restful-api-server-with-python-fastapi-and-postgresql)
 
 # python-fastapi
